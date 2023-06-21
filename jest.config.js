@@ -19,6 +19,7 @@ module.exports = {
   modulePathIgnorePatterns: [
     '<rootDir>/node_modules',
     '<rootDir>/dist',
+    '<rootDir>/cypress'
   ],
 
   // jsdom 환경에 대한 URL을 설정합니다.
